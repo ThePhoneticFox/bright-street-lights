@@ -1,0 +1,16 @@
+{
+  "name": "bright-street-lights",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A theme inspired by wet nights and street lights",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark"
+  ],
+  "repository": "https://github.com/atom/bright-street-lights",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
