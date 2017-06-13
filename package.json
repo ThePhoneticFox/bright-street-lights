@@ -1,5 +1,5 @@
 {
-  "name": "bright-street-lights",
+  "name": "bright-street-lights-syntax",
   "theme": "syntax",
   "version": "0.0.0",
   "description": "A theme inspired by wet nights and street lights",
@@ -8,7 +8,7 @@
     "theme",
     "dark"
   ],
-  "repository": "https://github.com/atom/bright-street-lights",
+  "repository": "https://github.com/ThePhoneticFox/bright-street-lights",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
